@@ -1,0 +1,104 @@
+.about_header{
+    padding: 20px;
+    font-family: "Agency FB";
+    font-size: 40px;
+    background: #333;
+    color: wheat;
+}
+.about_section{
+    background: #333;
+    color: white;
+}
+.about_body{
+    padding: 20px;
+    font-family: "Agency FB";
+    font-size: 30px;
+    text-align: justify;
+}
+.about_footer{
+    padding: 20px;
+    font-family: "Agency FB";
+    font-size: 30px;
+    text-align: justify;
+}
+.about_footer td{
+    padding: 10px;
+}
+.education_header{
+    padding: 20px;
+    margin-top: 40px;
+    font-family: "Agency FB";
+    font-size: 40px;
+}
+.education_section{
+    padding: 40px;
+    font-family: "Agency FB";
+    font-size: 30px;
+    background: #4e6487;
+    color: wheat;
+}
+.skill_header{
+    padding: 20px;
+    margin-top: 40px;
+    font-family: "Agency FB";
+    font-size: 40px;
+}
+.progress_bar{
+    padding: 30px;
+}
+.label{
+    margin-top: 40px;
+}
+.portfolio_header{
+    padding: 20px;
+    margin-top: 40px;
+    font-family: "Agency FB";
+    font-size: 40px;
+}
+.portfolio{
+    margin-top: 25px;
+}
+.contact_header{
+    padding: 20px;
+    margin-top: 40px;
+    font-family: "Agency FB";
+    font-size: 40px;
+}
+.contact_details{
+    padding: 20px;
+    font-family: "Agency FB";
+    font-size: 35px;
+}
+.footer{
+    text-align: center;
+}
+.footer h5{
+    margin-top: 40px;
+}
+.card-header{
+    background: #3a122d;
+    color: wheat;
+    opacity: .8;
+}
+.card-header:hover{
+    opacity: 1;
+}
+.social_media_container{
+    padding-left: 15%;
+}
+.facebook{
+    float: left;
+    padding: 5px;
+}
+.linkedin{
+    float: left;
+    padding: 5px;
+}
+.twitter{
+    float: left;
+    padding: 5px;
+}
+.google{
+    float: left;
+    padding: 5px;
+}
